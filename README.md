@@ -85,12 +85,6 @@ The dashboard uses the following Python libraries:
  
 ## 🎨 Dashboard Design
 
-### Color Scheme
-- **Green** (#27ae60) - Show-up appointments
-- **Red** (#e74c3c) - No-show appointments
-- **Blue** (#3498db) - Total appointments
-- **Orange** (#f39c12) - SMS metrics
-
 ### Layout Features
 - **Responsive Design**: Adapts to different screen sizes
 - **Professional Styling**: Clean, modern interface
@@ -152,5 +146,6 @@ This dashboard demonstrates:
 This project is created for educational purposes and data analysis demonstration.
 
 ---
+
 
 **Built using Dash and Plotly** 
